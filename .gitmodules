@@ -1,0 +1,4 @@
+[submodule "hurrinico/project"]
+	path = hurrinico/project
+	url = git@github.com:hurrinico/project.git
+	branch = 14.0-mig-project_parent
