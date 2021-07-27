@@ -2,3 +2,8 @@
 	path = hurrinico/project
 	url = git@github.com:hurrinico/project.git
 	branch = 14.0-mig-project_parent
+
+[submodule "OCA/helpdesk"]
+	path = OCA/helpdesk
+	url = git@github.com:OCA/helpdesk.git
+	branch = 14.0
