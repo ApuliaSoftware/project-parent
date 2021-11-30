@@ -12,3 +12,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "ApuliaSoftware/afe"]
+	path = ApuliaSoftware/afe
+	url = git@github.com:ApuliaSoftware/afe.git
+	branch = 14.0
